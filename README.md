@@ -1,6 +1,6 @@
 ## Olá, me chamo Carolina Morais ✨
 
-👩‍💻 Olá! Eu sou a Carolina
+👩‍💻 Olá! Eu sou a Carol
 
 🚀 Estudante de Engenharia de Software e apaixonada por tecnologia e inovação.
 
