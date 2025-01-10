@@ -8,7 +8,7 @@
 
 🌱 Explorando tecnologias como JavaScript, HTML/CSS.
 
-💡 CEO da JmsSystem.
+💡 JmsSystem.
 
 📚 Estudante dedicada e entusiasta do aprendizado contínuo.
 
