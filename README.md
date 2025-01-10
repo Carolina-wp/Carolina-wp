@@ -4,11 +4,11 @@
 
 🚀 Estudante de Engenharia de Software e apaixonada por tecnologia e inovação.
 
-📊 Atualmente trabalho como Auxiliar de Departamento Pessoal, mas estou sempre em busca de novos desafios na área de desenvolvimento.
+📊 Atualmente trabalho como Auxiliar de T.I, mas estou sempre em busca de novos desafios na área de desenvolvimento.
 
-🌱 Explorando tecnologias como JavaScript, HTML/CSS e frameworks modernos.
+🌱 Explorando tecnologias como JavaScript, HTML/CSS.
 
-💡 Criadora do sistema EMV Saúde e fundadora da Bom de Busca RJ.
+💡 CEO da JmsSystem.
 
 📚 Estudante dedicada e entusiasta do aprendizado contínuo.
 
