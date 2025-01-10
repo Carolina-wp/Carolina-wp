@@ -1,5 +1,14 @@
 ## Olá, me chamo Carolina Morais ✨
 
+👩‍💻 Olá! Eu sou a Carolina
+🚀 Estudante de Engenharia de Software e apaixonada por tecnologia e inovação.
+📊 Atualmente trabalho como Auxiliar de Departamento Pessoal, mas estou sempre em busca de novos desafios na área de desenvolvimento.
+🌱 Explorando tecnologias como JavaScript, HTML/CSS e frameworks modernos.
+💡 Criadora do sistema EMV Saúde e fundadora da Bom de Busca RJ.
+📚 Estudante dedicada e entusiasta do aprendizado contínuo.
+💌 Vamos nos conectar? icarol.exe
+
+
 <!--
 **Carolina-wp/Carolina-wp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
