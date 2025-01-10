@@ -12,7 +12,7 @@
 
 📚 Estudante dedicada e entusiasta do aprendizado contínuo.
 
-💌 Vamos nos conectar? icarol.exe
+💌 Vamos nos conectar? 
 
 
 <!--
