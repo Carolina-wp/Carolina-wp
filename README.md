@@ -89,7 +89,7 @@ curiosidade_secreta: >
 
 ---
 
-## 📊 Meus Números (eles não mentem)
+## 📊 Meus Números 
 
 <div align="center">
   <img height="195px" src="https://github-readme-stats.vercel.app/api?username=Carolina-wp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&border_color=7c3aed&title_color=a78bfa&icon_color=a78bfa"/>
@@ -114,7 +114,7 @@ curiosidade_secreta: >
 
 ---
 
-## 🌀 A Jornada dev em forma de snake
+## 🌀 A Jornada dev 
 
 <div align="center">
   <picture>
