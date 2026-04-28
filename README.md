@@ -15,13 +15,13 @@
 
 ---
 
-## ⚡ Quem sou eu?
+## Quem sou eu?
 
 <img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ```yaml
 nome:       Carolina Morais
-alias:      Carol 🌙
+alias:      Carol 
 localidade: Brasil 🇧🇷
 formação:   Engenharia de Software
 
@@ -42,33 +42,33 @@ atualmente:
 
 curiosidade_secreta: >
   Acredito que código bem escrito
-  é uma forma de arte. 🎨
+  é uma forma de arte. 
 ```
 
 <br clear="right"/>
 
 ---
 
-## 🧰 Arsenal Tecnológico
+##  Arsenal Tecnológico
 
 <div align="center">
 
-### ⚔️ Linguagens
+###  Linguagens
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🎨 Front-end
+###  Front-end
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### 🗄️ Banco de Dados
+###  Banco de Dados
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🔧 Ferramentas & Ambiente
+###  Ferramentas & Ambiente
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -79,7 +79,7 @@ curiosidade_secreta: >
 
 ---
 
-## 📊 Meus Números 
+##  Meus Números 
 
 <div align="center">
   <img height="195px" src="https://github-readme-stats.vercel.app/api?username=Carolina-wp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&border_color=7c3aed&title_color=a78bfa&icon_color=a78bfa"/>
@@ -96,7 +96,7 @@ curiosidade_secreta: >
 
 ---
 
-## 🏆 Conquistas
+##  Conquistas
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Carolina-wp&theme=tokyonight&no-frame=false&row=1&column=6&margin-w=8" width="100%" />
@@ -104,7 +104,7 @@ curiosidade_secreta: >
 
 ---
 
-## 🌀 A Jornada dev 
+##  A Jornada dev 
 
 <div align="center">
   <picture>
@@ -153,7 +153,7 @@ curiosidade_secreta: >
 ║    é indistinguível de magia."                           ║
 ║                              — Arthur C. Clarke          ║
 ║                                                          ║
-║              Vamos criar magia juntos? ✨                 ║
+║              Vamos criar magia juntos?                   ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
