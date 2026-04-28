@@ -20,8 +20,7 @@
 ╚════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=560&lines=Engenheira+de+Software+em+construção+🏗️;Transformo+café+em+código+☕→💻;PHP+%7C+Java+%7C+JavaScript+%7C+Python;Se+funciona%2C+não+mexa.+Se+não+funciona...+bora!;Open+to+colaborações+e+ideias+malucas+🌀" />
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=560&lines=Engenheira+de+Software+em+construção;Transformo+cafe+em+codigo;PHP+%7C+Java+%7C+JavaScript+%7C+Python;Se+funciona%2C+nao+mexa!;Open+to+colaboracoes" />
 </div>
 
 ---
