@@ -8,17 +8,7 @@
 
 <div align="center">
 
-```
-╔════════════════════════════════════════════════════════════╗
-║                                                            ║
-║      > Inicializando perfil de Carolina Morais...          ║
-║      > Carregando habilidades............ [██████████] ✓   ║
-║      > Compilando projetos............... [██████████] ✓   ║
-║      > Conectando ao mundo dev........... [██████████] ✓   ║
-║      > Pronto. Bem-vindo(a). 🚀                            ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
-```
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=1500&pause=300&color=00FF41&background=0D1117&center=true&vCenter=true&multiline=true&width=580&height=160&lines=+>+Inicializando+perfil+de+Carolina+Morais...;+>+Carregando+habilidades.....[██████████]+✓;+>+Compilando+projetos.......[██████████]+✓;+>+Conectando+ao+mundo+dev...[██████████]+✓;+>+Pronto.+Bem-vindo(a)" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=560&lines=Engenheira+de+Software+em+construção;Transformo+café+em+código;PHP+%7C+Java+%7C+JavaScript+%7C+Python;Se+funciona%2C+não+mexa!;Open+to+collaborations" />
 </div>
