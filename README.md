@@ -1,38 +1,43 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=260&section=header&text=Carolina%20Morais&fontColor=ffffff&fontSize=58&animation=fadeIn&fontAlignY=42&desc=Frontend%20Developer%20%7C%20Full%20Stack%20em%20construção&descSize=15&descAlignY=62&descColor=d0e8ff" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2a4a,100:0d1117&height=250&section=header&text=Carolina%20Morais&fontColor=58a6ff&fontSize=55&animation=fadeIn&fontAlignY=42&desc=Frontend%20Developer%20%7C%20Full%20Stack%20em%20construção&descSize=14&descAlignY=63&descColor=8b949e" width="100%">
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=1200&color=58A6FF&center=true&vCenter=true&width=480&lines=Transformando+ideias+em+interfaces;HTML+%7C+CSS+%7C+JavaScript+%7C+Supabase;Construindo+o+Kiosys+do+zero;Aberta+a+estágios+e+colaborações" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=58A6FF&background=0D111700&center=true&vCenter=true&width=500&lines=HTML+%7C+CSS+%7C+JavaScript+%7C+Supabase;Construindo+o+Kiosys+do+zero;Frontend+com+visão+Full+Stack;Aberta+a+estágios+e+colaborações+%F0%9F%9A%80" />
 
 </div>
 
-<br/>
-
 ---
 
-## › Sobre mim
+## ⚡ whoami
+
+```bash
+$ cat about.yaml
+```
 
 ```yaml
-nome:       Carolina Morais
-localidade: Bayeux — PB, Brasil 🇧🇷
-formação:   Engenharia de Software (Estácio)
+name:       Carolina Morais
+location:   Bayeux — PB, Brasil
+role:       Frontend Developer
+learning:   Full Stack Development
 
-foco:
-  - Frontend Development
-  - Banco de dados com Supabase
-  - Crescendo para Full Stack
+stack:
+  - HTML5 / CSS3 / JavaScript
+  - PostgreSQL + Supabase
+  - Git & GitHub
 
-agora:
-  - 🏪 Desenvolvendo o Kiosys (gestão de lojas)
-  - ⚙️  Automação Industrial no IFPB (ago/2025)
-  - 📬 Aberta a estágios remotos
+now:
+  - Desenvolvendo o Kiosys (sistema de gestão de lojas)
+  - Iniciando Automação Industrial no IFPB (ago/2025)
+  - Buscando primeiro estágio em tech
+
+superpower: Transformar ideias em interfaces que funcionam
 ```
 
 ---
 
-## › Stack
+## 🛠️ Stack
 
 <div align="center">
 
@@ -48,32 +53,36 @@ agora:
 
 ---
 
-## › Em destaque
+## 🚀 Projeto em destaque
+
+```
+╔══════════════════════════════════════════════╗
+║  🏪 KIOSYS                                   ║
+║  Gerencie suas lojas com clareza.            ║
+║  Vendas · Despesas · Turnos em tempo real    ║
+║                                              ║
+║  Status: em desenvolvimento                  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+## 📊 Stats
 
 <div align="center">
 
-### 🏪 Kiosys
-**Gerencie suas lojas com clareza.**
-Acompanhe vendas, despesas e turnos em tempo real — em um só lugar.
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=Carolina-wp&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_radius=10&title_color=58a6ff&icon_color=58a6ff&hide_border=true&bg_color=0d1117"/>
+<img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=Carolina-wp&theme=github-dark-blue&border_radius=10&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&hide_border=true&background=0d1117"/>
 
-*Projeto próprio · Em desenvolvimento · Web App*
+</div>
 
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carolina-wp&layout=compact&langs_count=5&theme=github_dark&border_radius=10&title_color=58a6ff&hide_border=true&bg_color=0d1117" height="150px"/>
 </div>
 
 ---
 
-## › Estatísticas
-
-<div align="center">
-
-<img height="175px" src="https://github-readme-stats.vercel.app/api?username=Carolina-wp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&title_color=58a6ff&icon_color=58a6ff&hide_border=true"/>
-<img height="175px" src="https://github-readme-streak-stats.herokuapp.com/?user=Carolina-wp&theme=tokyonight&border_radius=10&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&hide_border=true"/>
-
-</div>
-
----
-
-## › Contato
+## 📡 Contato
 
 <div align="center">
 
@@ -87,8 +96,10 @@ Acompanhe vendas, despesas e turnos em tempo real — em um só lugar.
 
 </div>
 
-<br/>
+---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2a4a,100:0d1117&height=120&section=footer" width="100%">
+
 </div>
