@@ -4,40 +4,30 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=58A6FF&background=0D111700&center=true&vCenter=true&width=500&lines=HTML+%7C+CSS+%7C+JavaScript+%7C+Supabase;Construindo+o+Kiosys+do+zero;Frontend+com+visão+Full+Stack;Aberta+a+estágios+e+colaborações+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=58A6FF&background=0D111700&center=true&vCenter=true&width=500&lines=HTML+%7C+CSS+%7C+JavaScript+%7C+Supabase;Construindo+o+Kiosys+do+zero;Frontend+com+visão+Full+Stack;Aberta+a+estágios+e+colaborações+" />
 
 </div>
 
----
-
-## ⚡ whoami
-
-```bash
-$ cat about.yaml
-```
-
-```yaml
-name:       Carolina Morais
-location:   Bayeux — PB, Brasil
-role:       Frontend Developer
-learning:   Full Stack Development
-
-stack:
-  - HTML5 / CSS3 / JavaScript
-  - PostgreSQL + Supabase
-  - Git & GitHub
-
-now:
-  - Desenvolvendo o Kiosys (sistema de gestão de lojas)
-  - Iniciando Automação Industrial no IFPB (ago/2025)
-  - Buscando primeiro estágio em tech
-
-superpower: Transformar ideias em interfaces que funcionam
-```
+<br/>
 
 ---
 
-## 🛠️ Stack
+<br/>
+
+## Sobre mim
+
+Estudante de **Engenharia de Software** apaixonada por criar interfaces que fazem sentido.
+Desenvolvo o **Kiosys** — um sistema de gestão de lojas — do zero, sozinha.
+Em agosto de 2025 inicio **Automação Industrial** no IFPB.
+Buscando meu primeiro estágio em tecnologia.
+
+<br/>
+
+---
+
+<br/>
+
+## Stack
 
 <div align="center">
 
@@ -51,23 +41,31 @@ superpower: Transformar ideias em interfaces que funcionam
 
 </div>
 
----
-
-## 🚀 Projeto em destaque
-
-```
-╔══════════════════════════════════════════════╗
-║  🏪 KIOSYS                                   ║
-║  Gerencie suas lojas com clareza.            ║
-║  Vendas · Despesas · Turnos em tempo real    ║
-║                                              ║
-║  Status: em desenvolvimento                  ║
-╚══════════════════════════════════════════════╝
-```
+<br/>
 
 ---
 
-## 📊 Stats
+<br/>
+
+## Projeto em destaque
+
+<div align="center">
+
+### Kiosys
+**Gerencie suas lojas com clareza.**
+Acompanhe vendas, despesas e turnos em tempo real — em um só lugar.
+
+`Em desenvolvimento` · `Web App` · `Projeto próprio`
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## Estatísticas
 
 <div align="center">
 
@@ -76,13 +74,13 @@ superpower: Transformar ideias em interfaces que funcionam
 
 </div>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carolina-wp&layout=compact&langs_count=5&theme=github_dark&border_radius=10&title_color=58a6ff&hide_border=true&bg_color=0d1117" height="150px"/>
-</div>
+<br/>
 
 ---
 
-## 📡 Contato
+<br/>
+
+## Contato
 
 <div align="center">
 
@@ -96,10 +94,8 @@ superpower: Transformar ideias em interfaces que funcionam
 
 </div>
 
----
+<br/>
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2a4a,100:0d1117&height=120&section=footer" width="100%">
-
 </div>
