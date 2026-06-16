@@ -77,15 +77,24 @@ Idiomas      Portugues nativo · Ingles avancado
 
 ## [ projeto em destaque ]
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
 <a href="https://github.com/Carolina-wp/kiosys-demo">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Carolina-wp&repo=kiosys-demo&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
 </a>
 
-</div>
-
 > **Kiosys** — Gerencie suas lojas com clareza. Acompanhe vendas, despesas e turnos em tempo real, em um so lugar. Projeto proprio, desenvolvido do zero.
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://raw.githubusercontent.com/Carolina-wp/kiosys-demo/main/preview.png" width="100%" style="border-radius: 8px;"/>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
