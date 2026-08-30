@@ -20,15 +20,15 @@
 
 ###  sobre mim
 
-Desenvolvedora frontend construindo minha visão full stack na prática — hoje meu foco é o **Kiosys**, um sistema de gestão para lojas que estou construindo do zero. Em paralelo, curso Engenharia de Software e Automação Industrial, e estou aberta a oportunidades de estágio e colaborações.
+Desenvolvedora frontend construindo minha visão full stack na prática, hoje meu foco é o **Kiosys**, um sistema de gestão para lojas que estou construindo do zero. Em paralelo, curso Engenharia de Software e Automação Industrial, e estou aberta a oportunidades de estágio e colaborações.
 
 <table>
-<tr><td></td><td><b>Localização</b></td><td>Bayeux — PB, Brasil</td></tr>
-<tr><td></td><td><b>Formação</b></td><td>Engenharia de Software · Estácio</td></tr>
-<tr><td></td><td><b>Cursando</b></td><td>Automação Industrial (superior) · IFPB</td></tr>
-<tr><td></td><td><b>Projeto atual</b></td><td>Kiosys — sistema de gestão de lojas</td></tr>
-<tr><td></td><td><b>Status</b></td><td>Buscando estágio em tecnologia</td></tr>
-<tr><td></td><td><b>Idiomas</b></td><td>Português nativo · Inglês avançado</td></tr>
+<tr><td><b>Localização</b></td><td>Bayeux — PB, Brasil</td></tr>
+<tr><td><b>Formação</b></td><td>Engenharia de Software · Estácio</td></tr>
+<tr><td><b>Cursando</b></td><td>Automação Industrial (superior) · IFPB</td></tr>
+<tr><td><b>Projeto atual</b></td><td>Kiosys — sistema de gestão de lojas</td></tr>
+<tr>><td><b>Status</b></td><td>Buscando estágio em tecnologia</td></tr>
+<tr><td><b>Idiomas</b></td><td>Português nativo · Inglês avançado</td></tr>
 </table>
 
 <br/>
